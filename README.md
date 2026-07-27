@@ -2,7 +2,7 @@
 
 🎓 **Artificial Intelligence Undergraduate** at Universiti Teknologi MARA (UiTM), Malaysia.
 
-I enjoy building AI solutions that solve real-world problems through **Machine Learning, Computer Vision, IoT, and Data Analytics**. My goal is to become an AI Engineer who develops intelligent systems for industrial and real-world applications.
+I enjoy building AI solutions that solve real-world problems through **Machine Learning, Optimization, Computer Vision and Data Analytics**. My goal is to become an AI Engineer who develops intelligent systems for industrial and real-world applications.
 
 ---
 
