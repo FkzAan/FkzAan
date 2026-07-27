@@ -28,33 +28,21 @@ I enjoy building AI solutions that solve real-world problems through **Machine L
 
 # 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- SQL
-- Java
-- C++
+💻 Languages
 
-### Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
+Python   SQL   Java   C++
 
-### Data Analytics
-- RapidMiner
-- Altair AI Studio
-- Excel
-- Google Sheets
+🤖 Machine Learning
 
-### Databases
-- MySQL
+Scikit-learn   Pandas   NumPy
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
+🗄 Database
+
+MySQL
+
+🛠 Tools
+
+Git   GitHub   VS Code   Jupyter   Google Colab
 
 ---
 
