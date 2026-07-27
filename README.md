@@ -20,9 +20,8 @@ I enjoy building AI solutions that solve real-world problems through **Machine L
 
 - Machine Learning
 - Predictive Maintenance
-- Computer Vision
+- Computer Vision + AI
 - Data Analytics
-- IoT + AI
 - MLOps (Learning)
 
 ---
